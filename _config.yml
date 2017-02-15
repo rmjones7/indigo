@@ -42,27 +42,21 @@ twitter: mytwitter
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: rmjones7
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: rmjones7@illinois.edu
 
 authors:
-    johndoe:
-        name: John Doe
+    mitchell:
+        name: Mitchell Jones
         bio: A Man who travels the world eating noodles
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        picture: assets/images/IMG_2133.jpg
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

@@ -14,11 +14,11 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: assets/RMJones_Resume_S17.pdf
 
 # Publications
 publications: true
-publications-url: assets/RMJones_Resume_S17.pdf
+# publications-url:
 
 url: http://robertmitchelljones.com
 # your url: http://USERNAME.github.io

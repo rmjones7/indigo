@@ -16,6 +16,10 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
+# Publications
+publications: true
+publications-url: assets/RMJones_Resume_S17.pdf
+
 url: http://robertmitchelljones.com
 # your url: http://USERNAME.github.io
 
@@ -73,7 +77,6 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: false
 # blog: true
-publications: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

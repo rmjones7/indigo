@@ -15,4 +15,4 @@ Thiago Marinho, Arun Lakshmanan, Venanzio Cichella, Christopher Widdowson, Hang 
 
 [2]: http://ieeexplore.ieee.org/document/7504790/ "VR Study of Human-Multicopter Interaction in a Residential Setting"
 
-[3]: http://www.lipsum.com/ "Aerial Manipulation for Indoor Applications”
+[3]: http://www.lipsum.com/ "Aerial Manipulation for Indoor Applications"
